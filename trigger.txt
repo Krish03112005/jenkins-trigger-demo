@@ -1,1 +1,2 @@
 Initial trigger test entry
+second trigger test entry -- text --
